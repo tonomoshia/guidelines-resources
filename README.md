@@ -12,11 +12,11 @@ No harassment: Women Who Code is dedicated to providing a harassment-free event 
 - RubyMonk - https://rubymonk.com/  
 - Tryruby.org  
 - 35 Useful CSS3 Tutorials To Boost Your Skills - http://www.tripwiremagazine.com/2012/06/css3-tutorials.html  
-Codecademy - http://www.codecademy.com/
-Learn to Program, by Chris Pine - http://it-ebooks.info/book/36/
-Rails Tutorial - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
-Ruby Quiz - http://rubyquiz.com/
-Ruby in 100 minutes - Jumpstart Lab Curriculum - http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+- Codecademy - http://www.codecademy.com/  
+- Learn to Program, by Chris Pine - http://it-ebooks.info/book/36/  
+- Rails Tutorial - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book  
+- Ruby Quiz - http://rubyquiz.com/  
+- Ruby in 100 minutes - Jumpstart Lab Curriculum - http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  
 5 Ways To Learn Code From The Comfort Of Your Own Browser
 Neural Networks for Machine Learning
 Install Rails
