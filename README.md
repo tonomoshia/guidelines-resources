@@ -10,7 +10,7 @@ No harassment: Women Who Code is dedicated to providing a harassment-free event 
 
     Learn to Program Sources
 - RubyMonk - https://rubymonk.com/  
-- Tryruby.org  
+- [Tryruby.org] (Tryruby.org) 
 - 35 Useful CSS3 Tutorials To Boost Your Skills - http://www.tripwiremagazine.com/2012/06/css3-tutorials.html  
 - Codecademy - http://www.codecademy.com/  
 - Learn to Program, by Chris Pine - http://it-ebooks.info/book/36/  
