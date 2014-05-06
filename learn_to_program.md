@@ -44,4 +44,5 @@
 - Also, Why I'm learning to code  
 - Learn Ruby with the EdgeCase Ruby Koans  
 - Learn Python with Games  
+- [Coursera Python](https://www.coursera.org/course/interactivepython)
 
