@@ -8,7 +8,7 @@ WWCode is a global non-profit organization dedicated to inspiring women to excel
 ### Vision
 Our goal is to connect 5 million women in tech by 2019
  
-### Key Initiatives:
+### Key Initiatives
 - Free technical study groups
 - Events featuring influential tech industry experts and investors
 - Career and leadership development
