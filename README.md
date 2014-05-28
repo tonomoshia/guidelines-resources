@@ -14,9 +14,6 @@ This is a list of resources that we have gathered for study groups.
 ###[Who We Are](who_we_are.md)
 Mission, Vision, Key Initiative, Empowerment, and tenative press kit.
 
-###[Event Guidelines](event_guidelines.md)
-Dos and Don'ts for WWCode Events.
-
 ##Contributing
 Please submit a pull request! This is in the very early stages of development.
 
