@@ -1,12 +1,12 @@
 ### Overview
 Women Who Code (WWCode) is a global non-profit organization which inspires women to excel in careers in technology. We believe that innovation is driven by diversity and that the tech industry will be even better once women are no longer underrepresented.
-Women Who Code was founded in 2011 and has since grown to 10,000 members spanning 13 countries. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced more than 450 events worldwide and garnered sponsorship from organizations like KPCB, Square, Etsy, Heroku, Yelp, and many others.
+Women Who Code was founded in 2011 and has since grown to 13,000 members spanning 14 countries. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced more than 700 events worldwide and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
  
 ### Mission
 WWCode is a global non-profit organization dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology.
  
 ### Vision
-Our goal is to connect 5 million women in tech by 2019
+Our goal is to connect 1 million women in tech by 2019
  
 ### Key Initiatives
 - Free technical study groups
@@ -15,7 +15,7 @@ Our goal is to connect 5 million women in tech by 2019
 - Hack nights
  
 ### Membership
-To date WWCode has 10,000 members spanning 13 countries and we are launching a new meetup group in a new city every week.
+To date WWCode has 13,000 members spanning 14 countries.
  
 ### Empowerment
 WWCode is a professional community for women in tech. We provide an avenue for women to pursue a career in technology, help them gain new skills and hone existing skills for professional advancement, and foster environments where networking and mentorship are valued.
