@@ -3,7 +3,7 @@ General Programming
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/?grcc=33333Z98ZtrendingZ0Z0Z0Z0Z0&amp;grcc2=c28817a109b4e3267e565531a9511c34%7E1345610407531%7Efca4fa8af1286d8a77f26033fdeed202%7E70f49504dc42ebd3690b29cf0ca36b05%7E1345602227166%7E98%7E0%7E0%7E0%7E0%7E0%7E0%7E0%7E9%7E3%7E)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
 *   [Programr | Online IT Lab](http://www.programr.com/)
-*   [learn to code the hard way](http://learncodethehardway.org/cli/book/cli-crash-courseli1.html)
+*   [learn to code the hard way](http://cli.learncodethehardway.org/)
 *   [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 *   [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
 *   [$ cheat browse http://cheat.errtheblog.com/b](http://cheat.errtheblog.com/b)
