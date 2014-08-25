@@ -6,7 +6,7 @@ General Programming
 *   [learn to code the hard way](http://cli.learncodethehardway.org/)
 *   [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 *   [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
-*   [$ cheat browse http://cheat.errtheblog.com/b](http://cheat.errtheblog.com/b)
+*   [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
@@ -45,7 +45,7 @@ Python
 
 Git
 *   [Code School - Try Git](http://www.codeschool.com/courses/try-git?utm_source=Code+School+Registered+Users&amp;utm_campaign=8fce236659-Try_Git_Launch_TO_CLEANED_LIST7_12_2012&amp;utm_medium=email&amp;gooal=eyJjaWQiOiI4ZmNlMjM2NjU5IiwidGFnIjoiVHJ5X0dpdF9MYXVuY2hfQ2xlYW5lZF9MaXN0IiwidWlkIjoiODIzNGVkNjJkNmE3ZmE4NzcyMWZmMWQ4YSJ9%7CYWxhaW5hcGVyY2l2YWxAZ21haWwuY29t)
-*   [Pro Git](http://progit.org/book/)
+*   [Pro Git](http://git-scm.com/book)
 
 Misc
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
