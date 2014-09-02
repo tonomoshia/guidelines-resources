@@ -10,12 +10,26 @@ General Programming
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
+Git
+*   [Code School - Try Git](http://www.codeschool.com/courses/try-git?utm_source=Code+School+Registered+Users&amp;utm_campaign=8fce236659-Try_Git_Launch_TO_CLEANED_LIST7_12_2012&amp;utm_medium=email&amp;gooal=eyJjaWQiOiI4ZmNlMjM2NjU5IiwidGFnIjoiVHJ5X0dpdF9MYXVuY2hfQ2xlYW5lZF9MaXN0IiwidWlkIjoiODIzNGVkNjJkNmE3ZmE4NzcyMWZmMWQ4YSJ9%7CYWxhaW5hcGVyY2l2YWxAZ21haWwuY29t)
+*   [Pro Git](http://git-scm.com/book)
+
 HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [Project Euler](http://projecteuler.net/)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
+
+Java
+*   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
+*   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+
+Python
+*   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
+*   [Learn Python with Games](http://www.checkio.org/)
+*   [Coursera Python](https://www.coursera.org/course/interactivepython)
+*   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python?utm_source=Sailthru&amp;utm_medium=email&amp;utm_term=Python%20-%20launch&amp;utm_campaign=python-launch)
 
 Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby?utm_medium=email&amp;utm_campaign=ruby-alpha&amp;utm_source=Sailthru&amp;utm_term=ruby-alpha-tester)
@@ -36,16 +50,6 @@ Ruby
 *   [Ruby Quiz](http://rubyquiz.com/)
 *   [RubyMonk](http://rubymonk.com/)
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
-
-Python
-*   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
-*   [Learn Python with Games](http://www.checkio.org/)
-*   [Coursera Python](https://www.coursera.org/course/interactivepython)
-*   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python?utm_source=Sailthru&amp;utm_medium=email&amp;utm_term=Python%20-%20launch&amp;utm_campaign=python-launch)
-
-Git
-*   [Code School - Try Git](http://www.codeschool.com/courses/try-git?utm_source=Code+School+Registered+Users&amp;utm_campaign=8fce236659-Try_Git_Launch_TO_CLEANED_LIST7_12_2012&amp;utm_medium=email&amp;gooal=eyJjaWQiOiI4ZmNlMjM2NjU5IiwidGFnIjoiVHJ5X0dpdF9MYXVuY2hfQ2xlYW5lZF9MaXN0IiwidWlkIjoiODIzNGVkNjJkNmE3ZmE4NzcyMWZmMWQ4YSJ9%7CYWxhaW5hcGVyY2l2YWxAZ21haWwuY29t)
-*   [Pro Git](http://git-scm.com/book)
 
 Misc
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
