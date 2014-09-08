@@ -25,12 +25,14 @@ HTML/CSS
 Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+*   [CodingBat Java practice problems](http://codingbat.com/java)
 
 Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
 *   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
+*   [CodingBat Python practice problems](http://codingbat.com/python)
 
 Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
