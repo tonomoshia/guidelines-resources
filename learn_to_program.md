@@ -11,7 +11,7 @@ General Programming
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
 Git
-*   [Code School - Try Git](http://www.codeschool.com/courses/try-git?utm_source=Code+School+Registered+Users&amp;utm_campaign=8fce236659-Try_Git_Launch_TO_CLEANED_LIST7_12_2012&amp;utm_medium=email&amp;gooal=eyJjaWQiOiI4ZmNlMjM2NjU5IiwidGFnIjoiVHJ5X0dpdF9MYXVuY2hfQ2xlYW5lZF9MaXN0IiwidWlkIjoiODIzNGVkNjJkNmE3ZmE4NzcyMWZmMWQ4YSJ9%7CYWxhaW5hcGVyY2l2YWxAZ21haWwuY29t)
+*   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
 *   [Pro Git](http://git-scm.com/book)
 
 HTML/CSS
@@ -51,7 +51,11 @@ Ruby
 *   [RubyMonk](http://rubymonk.com/)
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
 
+Data
+*   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+
 Misc
+*   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
 *   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
