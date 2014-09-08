@@ -13,6 +13,7 @@ General Programming
 Git
 *   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
 *   [Pro Git](http://git-scm.com/book)
+*   [Atlassian Git Tutorials](https://www.atlassian.com/git)
 
 HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
