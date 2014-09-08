@@ -1,6 +1,6 @@
 General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
-*   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/?grcc=33333Z98ZtrendingZ0Z0Z0Z0Z0&amp;grcc2=c28817a109b4e3267e565531a9511c34%7E1345610407531%7Efca4fa8af1286d8a77f26033fdeed202%7E70f49504dc42ebd3690b29cf0ca36b05%7E1345602227166%7E98%7E0%7E0%7E0%7E0%7E0%7E0%7E0%7E9%7E3%7E)
+*   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
 *   [Programr | Online IT Lab](http://www.programr.com/)
 *   [learn to code the hard way](http://cli.learncodethehardway.org/)
@@ -11,7 +11,7 @@ General Programming
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
 Git
-*   [Code School - Try Git](http://www.codeschool.com/courses/try-git?utm_source=Code+School+Registered+Users&amp;utm_campaign=8fce236659-Try_Git_Launch_TO_CLEANED_LIST7_12_2012&amp;utm_medium=email&amp;gooal=eyJjaWQiOiI4ZmNlMjM2NjU5IiwidGFnIjoiVHJ5X0dpdF9MYXVuY2hfQ2xlYW5lZF9MaXN0IiwidWlkIjoiODIzNGVkNjJkNmE3ZmE4NzcyMWZmMWQ4YSJ9%7CYWxhaW5hcGVyY2l2YWxAZ21haWwuY29t)
+*   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
 *   [Pro Git](http://git-scm.com/book)
 
 HTML/CSS
@@ -29,10 +29,10 @@ Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
-*   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python?utm_source=Sailthru&amp;utm_medium=email&amp;utm_term=Python%20-%20launch&amp;utm_campaign=python-launch)
+*   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 
 Ruby
-*   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby?utm_medium=email&amp;utm_campaign=ruby-alpha&amp;utm_source=Sailthru&amp;utm_term=ruby-alpha-tester)
+*   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
 *   [Dev bootcamp - by bullets](http://devbootcampbullets.tumblr.com/)
 *   [Ruby in 100 minutes - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 *   [Install Rails](http://guides.railsgirls.com/install/)
@@ -51,7 +51,11 @@ Ruby
 *   [RubyMonk](http://rubymonk.com/)
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
 
+Data
+*   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+
 Misc
+*   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
 *   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
