@@ -53,6 +53,8 @@ Ruby
 *   [Ruby Quiz](http://rubyquiz.com/)
 *   [RubyMonk](http://rubymonk.com/)
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
+*   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
+*   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
 Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
