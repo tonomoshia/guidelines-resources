@@ -1,4 +1,4 @@
-General Programming
+#####General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -10,19 +10,19 @@ General Programming
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-Git
+#####Git
 *   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
 *   [Pro Git](http://git-scm.com/book)
 *   [Atlassian Git Tutorials](https://www.atlassian.com/git)
 
-HTML/CSS
+#####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [Project Euler](http://projecteuler.net/)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 
-Java
+#####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
@@ -32,7 +32,7 @@ Java
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
-Python
+#####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
@@ -40,7 +40,7 @@ Python
 *   [CodingBat Python practice problems](http://codingbat.com/python)
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) from founder of PyLadiesSF
 
-Ruby
+#####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
 *   [Dev bootcamp - by bullets](http://devbootcampbullets.tumblr.com/)
 *   [Ruby in 100 minutes - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
@@ -62,7 +62,7 @@ Ruby
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
-C/C++
+#####C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
@@ -74,10 +74,10 @@ C/C++
   * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
 
-Data
+#####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
-Misc
+#####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
@@ -85,7 +85,7 @@ Misc
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 
-Schools
+#####Schools
 *   [Khan Academy](http://www.khanacademy.org/#computer-science)
 *   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
