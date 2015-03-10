@@ -1,6 +1,6 @@
 ### Overview
 Women Who Code (WWCode) is a global non-profit organization which inspires women to excel in careers in technology. We believe that innovation is driven by diversity and that the tech industry will be even better once women are no longer underrepresented.
-Women Who Code was founded in 2011 and has since grown to 13,000 members spanning 14 countries. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced more than 700 events worldwide and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
+Women Who Code was founded in 2011 and has since grown to 25,000 members spanning 16 countries. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced more than 700 events worldwide and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
  
 ### Mission
 WWCode is a global non-profit organization dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology.
