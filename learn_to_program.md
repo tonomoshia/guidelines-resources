@@ -35,6 +35,14 @@
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
+#####Javascript
+#Tutorials#
+* [Code academy](http://www.codecademy.com/en/tracks/javascript)
+* [Nodeschool](http://nodeschool.io)
+* [Exercism](http://www.exercism.io/)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
