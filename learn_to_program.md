@@ -36,7 +36,6 @@
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
 #####Javascript
-#Tutorials#
 * [Code academy](http://www.codecademy.com/en/tracks/javascript)
 * [Nodeschool](http://nodeschool.io)
 * [Exercism](http://www.exercism.io/)
