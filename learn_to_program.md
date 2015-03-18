@@ -76,7 +76,7 @@
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
-*   [Learn C++](http://www.learncpp.com/)   
+*   [Learn C++](http://www.learncpp.com/)
 *   MIT Open Courseware C/C++ classes:
   * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
   * [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
@@ -101,3 +101,9 @@
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 *   [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
+
+#####Selenium
+*   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
+*   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
+*   [Selenium Automation Practice Form](http://www.toolsqa.com/automation-practice-form)
+*   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
