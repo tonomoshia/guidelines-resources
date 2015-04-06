@@ -42,6 +42,8 @@
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
 * [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - not all JS, but languages used are listed on the right hand side of the project list
+* [Hacker Rank](https://www.hackerrank.com)
+* [Mozilla's Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
