@@ -44,6 +44,7 @@
 * [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - not all JS, but languages used are listed on the right hand side of the project list
 * [Hacker Rank](https://www.hackerrank.com)
 * [Mozilla's Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - short overview of modern JS.  This is one of many free O'Reilly eBooks/videos, so it might be useful for other groups to check oreilly.com/programming/free
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
