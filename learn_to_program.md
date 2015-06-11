@@ -47,6 +47,7 @@
 * [Javascript and HTML5 Now](http://www.oreilly.com/programming/free/javascript-html5-now.csp) - short overview of modern JS.  This is one of many free O'Reilly eBooks/videos, so it might be useful for other groups to check oreilly.com/programming/free
 * [CodePen](http://codepen.io/) - scope out cool ideas for html/css/js projects
 * [Free Code Camp](http://www.freecodecamp.com/)
+* [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
