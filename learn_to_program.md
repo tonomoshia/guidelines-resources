@@ -17,6 +17,7 @@
 *   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
 *   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 *   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+*   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
@@ -93,6 +94,9 @@
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+*   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
+*   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
+*   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
 
 #####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
