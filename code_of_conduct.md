@@ -2,8 +2,7 @@
 
 Women Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. This Code of Conduct was created to clearly define what we mean by a harassment-free experience, so that our community and those who support it are clear about our intent and have access to procedures for addressing issues, should they arise. 
 
-Women Who Code Statement of Intent
-
+**Women Who Code Statement of Intent**
 WWCode values the safety and security of all of our members and, because of that, we will not tolerate any form of harassment or discrimination. Our goal is to provide a safe and secure environment for our members, and to this end we have taken the following actions: 
 Provided a statement of intent and code of conduct for events
 Explicitly outlined and defined forms of harassment and discrimination  
@@ -11,7 +10,7 @@ Clearly outlined the consequences for those who engage in harassing or discrimin
 Provided a system for reporting any harassing or discriminatory behavior
 Committed to a periodic review of the code of conduct
 
-Code of Conduct for Women Who Code Events
+**Code of Conduct for Women Who Code Events**
 WWCode is a non-profit organization dedicated to inspiring women to excel in technology careers. We are committed to our mission statement and equally committed to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status. We do not tolerate harassment of event participants in any form. Event participants violating these rules may be sanctioned or expelled permanently, at the discretion of the event organizers, which in most cases are members of the WWCode leadership team. 
 
 Forms of Harassment and Discrimination 
