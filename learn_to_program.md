@@ -98,6 +98,10 @@
 *   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 *   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
 
+#####InfoSec
+* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
+* [Hey we run five InfoSec consulting companies - Ask Us Anything](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+
 #####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
