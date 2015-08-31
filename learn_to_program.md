@@ -25,6 +25,7 @@
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
+*   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
 
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
