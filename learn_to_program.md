@@ -21,7 +21,6 @@
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
-*   [Project Euler](http://projecteuler.net/)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
@@ -102,7 +101,7 @@
   * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
   * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
-  
+
 #####Objective-C
 *   [ Developing iOS 7 Apps for iPhone and iPad by Stanford:](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 *   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
@@ -119,6 +118,10 @@
 #####InfoSec
 * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
 * [Hey we run five InfoSec consulting companies - Ask Us Anything](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+
+#####Algorithms
+*   [Project Euler](http://projecteuler.net/)
+*   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
 
 #####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
