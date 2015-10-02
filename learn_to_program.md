@@ -109,6 +109,9 @@
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
 *   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
 
+#####SQL
+*   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
+
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 *   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
