@@ -49,6 +49,8 @@
 * [CodePen](http://codepen.io/) - scope out cool ideas for html/css/js projects
 * [Free Code Camp](http://www.freecodecamp.com/)
 * [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
+* [W3Schools.com](http://www.w3schools.com/js/)
+* [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
