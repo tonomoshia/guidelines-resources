@@ -105,12 +105,20 @@
   * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
 
-#####Objective-C
-*   [ Developing iOS 7 Apps for iPhone and iPad by Stanford:](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+#####iOS
+*   Paul Hegarty's Stanford class CS193p on iTunes U:
+  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)  
 *   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
-*   [Try Objective-C by Code School:](https://www.codeschool.com/courses/try-objective-c)
+*   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+*   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
+*   CodePath:
+  *  [CodePath iOS Guides](http://guides.codepath.com/ios)
+  *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
+  *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
 *   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
+
 
 #####SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
