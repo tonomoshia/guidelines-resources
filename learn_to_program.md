@@ -10,14 +10,26 @@
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-#####Git
-*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
-*   [Pro Git](http://git-scm.com/book)
-*   [Atlassian Git Tutorials](https://www.atlassian.com/git)
-*   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
-*   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
-*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
-*   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+#####C/C++
+*   [C/C++ Reference](http://en.cppreference.com/w/)
+*   [Learn C The Hard Way](http://c.learncodethehardway.org/)
+*   [Google's C++ Class](https://developers.google.com/edu/c++/)
+*   [Learn C++](http://www.learncpp.com/)
+*   MIT Open Courseware C/C++ classes:
+  * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
+  * [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
+  * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
+  * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
+  * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
+
+#####Go
+*   [Go Language Tour](http://tour.golang.org)
+*   [Effective Go](https://golang.org/doc/effective_go.html)
+*   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
+*   [Learning to Program in Go Video Series](https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6)
+*   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
+*   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
+*   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
@@ -25,6 +37,20 @@
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 *   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
+
+#####iOS
+*   Paul Hegarty's Stanford class CS193p on iTunes U:
+  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)  
+*   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
+*   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+*   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
+*   CodePath:
+  *  [CodePath iOS Guides](http://guides.codepath.com/ios)
+  *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
+  *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
+*   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
+*   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
 
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
@@ -84,76 +110,6 @@
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
-#####Go
-*   [Go Language Tour](http://tour.golang.org)
-*   [Effective Go](https://golang.org/doc/effective_go.html)
-*   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
-*   [Learning to Program in Go Video Series](https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6)
-*   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
-*   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
-*   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
-
-#####C/C++
-*   [C/C++ Reference](http://en.cppreference.com/w/)
-*   [Learn C The Hard Way](http://c.learncodethehardway.org/)
-*   [Google's C++ Class](https://developers.google.com/edu/c++/)
-*   [Learn C++](http://www.learncpp.com/)
-*   MIT Open Courseware C/C++ classes:
-  * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
-  * [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
-  * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
-  * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
-  * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
-
-#####iOS
-*   Paul Hegarty's Stanford class CS193p on iTunes U:
-  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
-  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)  
-*   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
-*   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
-*   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
-*   CodePath:
-  *  [CodePath iOS Guides](http://guides.codepath.com/ios)
-  *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
-  *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
-*   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
-*   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
-
-
-#####SQL
-*   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
-
-#####Data
-*   [Code School - Try R](https://www.codeschool.com/courses/try-r)
-*   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
-*   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
-*   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
-
-#####InfoSec
-* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
-* [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
-* [We run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
-* [We run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
-
-#####Algorithms
-*   [Project Euler](http://projecteuler.net/)
-*   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
-
-#####Misc
-*   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
-*   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
-*   [VIM Adventures](http://vim-adventures.com/)
-*   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
-*   [Stack Overflow](http://stackoverflow.com/)
-*   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
-
-#####Schools
-*   [Khan Academy](http://www.khanacademy.org/#computer-science)
-*   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
-*   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
-*   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-*   [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
-
 #####Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
 *   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
@@ -170,3 +126,47 @@
 * [BYTE: A Special issue on Smalltalk](https://archive.org/details/byte-magazine-1981-08)
 * [Smalltalk, Objects, and Design](https://books.google.co.in/books?id=W8_Une9cbbgC&printsec=frontcover&dq=smalltalk&hl=en&sa=X&ved=0CCIQ6AEwAWoVChMIw63Vo6CpyAIV0HGOCh3S2Alf#v=onepage&q=smalltalk&f=false)
 * [Smalltalk: An Introduction to Application Development Using VisualWorks](https://books.google.co.in/books?id=zalQAAAAMAAJ&q=smalltalk&dq=smalltalk&hl=en&sa=X&ved=0CCgQ6AEwAmoVChMIw63Vo6CpyAIV0HGOCh3S2Alf/)
+
+#####SQL
+*   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
+
+#####Algorithms
+*   [Project Euler](http://projecteuler.net/)
+*   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
+
+#####Data
+*   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+*   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
+*   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
+*   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
+
+#####Git
+*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
+*   [Pro Git](http://git-scm.com/book)
+*   [Atlassian Git Tutorials](https://www.atlassian.com/git)
+*   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
+*   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
+*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+*   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+
+
+#####InfoSec
+* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
+* [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
+* [We run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+* [We run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+
+#####Misc
+*   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
+*   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
+*   [VIM Adventures](http://vim-adventures.com/)
+*   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
+*   [Stack Overflow](http://stackoverflow.com/)
+*   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
+
+#####Schools
+*   [Khan Academy](http://www.khanacademy.org/#computer-science)
+*   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
+*   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
+*   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+*   [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
