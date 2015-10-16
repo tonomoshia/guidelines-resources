@@ -51,6 +51,7 @@
 * [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
 * [W3Schools.com](http://www.w3schools.com/js/)
 * [Tutorials Point](http://www.tutorialspoint.com/javascript/)
+* [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
