@@ -151,10 +151,18 @@
 
 
 #####InfoSec
-* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
-* [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
-* [We run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
-* [We run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+* Reddit /r/netsec/ resources:
+  * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
+  * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+  * [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+* Capture The Flag (CTF) links:
+    * [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
+    * [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
+* Bug Bounty links:
+    * [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
+    * [Bugcrowd blog](https://blog.bugcrowd.com/) - for bug bounty community
+* [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
+
 
 #####Internet of Things (IoT)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
