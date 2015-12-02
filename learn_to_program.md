@@ -41,7 +41,7 @@
 #####iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
   *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
-  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)  
+  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 *   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
 *   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 *   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
@@ -80,6 +80,7 @@
 * [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 
 #####Python
+*   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
