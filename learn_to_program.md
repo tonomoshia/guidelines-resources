@@ -88,6 +88,7 @@
 *   [CodingBat Python practice problems](http://codingbat.com/python)
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) from founder of PyLadiesSF
 *   [Real Python](https://realpython.com)
+*   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
 
 #####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
