@@ -61,6 +61,7 @@
   * alternate [Java Programming Style Guide](http://www.javaranch.com/style.jsp) from JavaRanch
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
+*   [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
 
 #####Javascript
 * [Code academy](http://www.codecademy.com/en/tracks/javascript)
