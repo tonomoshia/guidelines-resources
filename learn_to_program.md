@@ -152,6 +152,10 @@
 *   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 *   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
 *   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+*   [Github - Pull requests](https://training.github.com/classnotes/2014-05-28-free-class-pull-requests)
+*   [Understanding Git Concepts](Understanding Git Conceptually)
+*   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
+*   [Github Guides](https://guides.github.com/)
 
 
 #####InfoSec
