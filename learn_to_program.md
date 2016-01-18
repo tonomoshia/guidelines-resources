@@ -133,6 +133,7 @@
 #####SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 *   Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+*   [Try SQL - Code School ](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables. 
 
 #####Algorithms
 *   [Project Euler](http://projecteuler.net/)
