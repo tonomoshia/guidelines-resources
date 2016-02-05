@@ -81,6 +81,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [W3Schools.com](http://www.w3schools.com/js/)
 * [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 * [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
+* [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 #####Python
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
