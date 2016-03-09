@@ -115,6 +115,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
+*   [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
 
 #####Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
