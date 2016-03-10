@@ -32,6 +32,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
 *   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
 *   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
+*   [GoBridge](http://golangbridge.org/)
+*   [Go Forum](https://forum.golangbridge.org/categories)
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
