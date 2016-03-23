@@ -23,6 +23,12 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
   * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
+*  [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - free O'Reilly eBook
+*   [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
+*   [Bjarne Stroustrup's Homepage]() (creator of C++) 
+  *   [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
+  *   [applications](http://www.stroustrup.com/applications.html) written in C++
+  *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 
 #####Go
 *   [Go Language Tour](http://tour.golang.org)
