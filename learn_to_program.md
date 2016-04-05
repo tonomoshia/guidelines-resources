@@ -201,10 +201,13 @@ Hi! Feel free to contribute new links and resources to this document. Please add
         * [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
 * Capture The Flag (CTF) links:
     * [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
-    * [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
     * [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
+    * links from Carnegie Mellon's CTF team, Plaid Parliament of Pwning (PPP)
+        * [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
+        * [Building a Competitive Hacking Team](https://www.youtube.com/watch?v=-r-B1uOj0W4) - USENIX Enigma 2016 talk about start of PPP + advice for developing CTF/security skills
     * [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- presentation on Collaborative CTF Infrastructure (video)
         * write up of talk with links:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
+    * https://github.com/ctfs -- mix of CTF write ups & [learning guide](https://github.com/ctfs/resources)
 * Bug Bounty links:
     * [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
     * [Bugcrowd blog](https://blog.bugcrowd.com/) - for bug bounty community
