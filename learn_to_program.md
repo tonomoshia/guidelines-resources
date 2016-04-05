@@ -101,6 +101,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) from founder of PyLadiesSF
 *   [Real Python](https://realpython.com)
 *   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
+*   Flask - a lightweight Python web framework
+    * http://flask.pocoo.org/docs/0.10/tutorial/
 
 #####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
