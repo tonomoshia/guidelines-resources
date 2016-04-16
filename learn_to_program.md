@@ -72,6 +72,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 *   [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
+*   [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) Learn Java using programs that draw graphics and images, perform animation, read and play audio files, and display video. Suitable for beginners.
 
 #####Javascript
 * [Code academy](http://www.codecademy.com/en/tracks/javascript)
@@ -103,6 +104,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
 *   Flask - a lightweight Python web framework
     * http://flask.pocoo.org/docs/0.10/tutorial/
+*   [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
 
 #####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
