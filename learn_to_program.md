@@ -92,6 +92,13 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 * [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+#####PHP
+* [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
+* [Learn PHP](http://www.learn-php.org) 
+* [PHP the right way](http://www.phptherightway.com) 
+* [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
+* [Laracasts series on PHP7](https://laracasts.com/series/php7-up-and-running)
+
 #####Python
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
