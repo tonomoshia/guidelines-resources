@@ -10,7 +10,9 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
 *   [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
+*   [Google Developers - Your First Progressive Web App] (https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
+*   [Free Code Camp] (https://www.freecodecamp.com/)
 
 #####C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
@@ -47,6 +49,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 *   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
+*   [Learn to Code Advanced HTML & CSS] (http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
 #####iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
@@ -136,6 +139,11 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 *   [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
 
+#####Scratch
+* [Learn Scratch in 10 minutes] (https://scratch.mit.edu/projects/31407152/)
+* [Scratch Lessons] (http://scratched.gse.harvard.edu/resources/scratch-lessons-shall-we-learn-scratch-programming-tweens)
+* [edX - Programming in Scratch] (https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+
 #####Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
 *   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
@@ -201,12 +209,15 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 
 #####InfoSec
+* Training:
+  * [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
 * Reddit /r/netsec/ resources:
   * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
   * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
   * [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
 * Hacking Challenges / Demo Apps
     * [OverTheWire WarGames](http://overthewire.org/wargames/)
+    * [Hack this site] (https://www.hackthissite.org/)
     * [Matasano Crypto Challenges](http://cryptopals.com/)
     * [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
         * [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
