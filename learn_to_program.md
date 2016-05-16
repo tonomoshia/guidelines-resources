@@ -94,6 +94,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 * [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 * [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-Js) 
 
  
 #####PHP
